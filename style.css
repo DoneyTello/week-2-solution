@@ -1,0 +1,329 @@
+@media(max-width: 1200px){
+    body{
+  background-color: black;
+   box-sizing: border-box;
+   
+  }
+      
+      .HeaderName {
+          color: bisque;
+          font-family: Arial, Helvetica, sans-serif;
+          font-style: italic;
+          font-size: 10px;
+          
+      }
+      
+      .HeaderLogo{
+          text-align: center;
+      }
+      
+      
+      .HeaderLogo span1{
+          color: darkblue;
+         font-size: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+          font-style: italic;
+          
+      }
+      
+      .HeaderLogo span2{
+      color: gold;
+          font-size: 35px;
+          
+      font-family: Arial, Helvetica, sans-serif;
+          font-style: italic;
+      }
+      
+      .HeaderLogo span3{
+      color: red;
+              font-size: 50px;
+      
+          font-family: Arial, Helvetica, sans-serif;
+          font-style: italic;
+          
+          }
+      
+          
+      
+      .HeaderNavigation li{
+      color: bisque;
+      border: 2px solid black;
+      box-sizing: border-box;
+      border-style: groove;
+      background-color: bisque;
+      list-style: none;
+      text-align: center;
+      width: 25%;
+      height: 30px;
+      float: inline-start;
+      font-style: italic;
+      position: relative;
+      right: 20px;
+      top: 10px;
+      margin-top: 20px;
+      font-size: 12px;
+      }
+      
+      div4{
+          text-align: center;
+          font-style: italic;
+          font-size:20px;
+          position: relative;
+          top: 40px;
+          color: bisque;
+           
+      }
+      div4 h2{
+          font-size: 50px;
+      }
+      p{
+        margin-bottom: 50px;
+        position: relative;
+        bottom: 30px;
+      }
+         
+      
+      
+      #Header {  
+          background-color: grey; 
+          border: 1px bisque solid;
+          
+      }  
+      #Footer{
+          background-color: grey;
+          padding: 130px;
+          text-align: center;
+          border: 1px beige solid;
+         
+      }
+      button{
+          position: relative;
+          right: -40%;
+          bottom: 15px;
+          width: 20%;
+          padding: 10px;
+          background-color: bisque;
+      }
+      
+  }
+      
+  @media(min-width: 768px and max-width: 991px){
+      body{
+          background-color: black;
+           border: 1px bisque solid;
+          
+          }
+          
+              
+              .HeaderName {
+                  color: bisque;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-style: italic;
+                  font-size: 10px;
+                  
+              }
+              
+              .HeaderLogo{
+                  text-align: center;
+              }
+              
+              
+              .HeaderLogo span1{
+                  color: darkblue;
+                 font-size: 50px;
+              font-family: Arial, Helvetica, sans-serif;
+                  font-style: italic;
+                  
+              }
+              
+              .HeaderLogo span2{
+              color: gold;
+                  font-size: 35px;
+                  
+              font-family: Arial, Helvetica, sans-serif;
+                  font-style: italic;
+              }
+              
+              .HeaderLogo span3{
+              color: red;
+                      font-size: 50px;
+              
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-style: italic;
+                  
+                  }
+              
+                  
+              
+              .HeaderNavigation li{
+              color: bisque;
+              border: 2px solid black;
+              box-sizing: border-box;
+              border-style: groove;
+              background-color: bisque;
+              list-style: none;
+              text-align: center;
+              width: 25%;
+              height: 30px;
+              float: inline-start;
+              font-style: italic;
+              position: relative;
+              right: 20px;
+              top: 10px;
+              margin-top: 20px;
+              font-size: 12px;
+              }
+              
+              div4{
+                  text-align: center;
+                  font-style: italic;
+                  font-size:20px;
+                  position: relative;
+                  top: 40px;
+                  color: bisque;
+                   
+              }
+          
+              div4 h2{
+                  font-size: 50px;
+              }
+          
+              p{
+                margin-bottom: 50px;
+                position: relative;
+                bottom: 30px;
+              }
+                 
+          
+              
+              
+          
+              #Header {  
+                  background-color: grey; 
+                  border: 1px bisque solid;
+                  
+              }  
+          
+              #Footer{
+                  background-color: grey;
+                  padding: 90px;
+                  text-align: center;
+                  border: 1px beige solid;
+              }
+              button{
+                  position: relative;
+                  right: -40%;
+                  bottom: 15px;
+                  width: 20%;
+                  padding: 10px;
+                  background-color: bisque;
+              }
+              
+  }
+  @media(min-width: 500px){
+       body{
+  background-color: black;
+   border: 1px bisque solid;
+  }
+      
+      .HeaderName {
+          color: bisque;
+          font-family: Arial, Helvetica, sans-serif;
+          font-style: italic;
+          font-size: 10px;
+          
+      }
+      
+      .HeaderLogo{
+          text-align: center;
+      }
+      
+      
+      .HeaderLogo span1{
+          color: darkblue;
+         font-size: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+          font-style: italic;
+          
+      }
+      
+      .HeaderLogo span2{
+      color: gold;
+          font-size: 35px;
+          
+      font-family: Arial, Helvetica, sans-serif;
+          font-style: italic;
+      }
+      
+      .HeaderLogo span3{
+      color: red;
+              font-size: 50px;
+      
+          font-family: Arial, Helvetica, sans-serif;
+          font-style: italic;
+          
+          }
+      
+          
+      
+      .HeaderNavigation li{
+      color: bisque;
+      border: 2px solid black;
+      box-sizing: border-box;
+      border-style: groove;
+      background-color: bisque;
+      list-style: none;
+      text-align: center;
+      width: 25%;
+      height: 30px;
+      float: inline-start;
+      font-style: italic;
+      position: relative;
+      right: 20px;
+      top: 10px;
+      margin-top: 20px;
+      font-size: 12px;
+      }
+      
+      div4{
+          text-align: center;
+          font-style: italic;
+          font-size:20px;
+          position: relative;
+          top: 40px;
+          color: bisque;
+           
+      }
+      div4 h2{
+          font-size: 50px;
+      }
+      p{
+        margin-bottom: 50px;
+        position: relative;
+        bottom: 30px;
+      }
+         
+      
+      #Header {  
+          background-color: grey; 
+          border: 1px bisque solid;
+          
+      }  
+      #Footer{
+          background-color: grey;
+          text-align: center;
+          border: 1px beige solid;
+          padding: 90px;
+          
+      }
+      button{
+         background-color: bisque;
+          position: relative;
+        right: -42%;
+        bottom: 15px;
+        width: 20%;
+      padding: 30px
+      }
+      
+  }
+  
